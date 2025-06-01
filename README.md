@@ -16,13 +16,12 @@ This interactive dashboard includes:
 
 📊 Visually appealing charts and intuitive layout for ease of analysis
 
-
 📌 Technologies
 * Power BI
 * DAX
 * Data modeling & relationships
 
 📂 Data Source:
-* Data has been taken from [Maven Analytics - Data Playground](https://mavenanalytics.io/data-playground) - "Mexico Toy Sales". 
+Data has been taken from [Maven Analytics - Data Playground](https://mavenanalytics.io/data-playground) - "Mexico Toy Sales". 
 
 🧠 Created by Karol Szeląg | 173223 (student index)
