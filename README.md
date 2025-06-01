@@ -1,4 +1,5 @@
-📊 Mexico Toy Sales - KPI Dashboard in Power BI
+## 📊 Mexico Toy Sales - KPI Dashboard in Power BI ##
+
 Welcome to my Power BI project based on the Mexico Toy Sales dataset! 🎉
 The main goal of this project was to create a professional KPI report that provides clear insights into toy sales across different locations and categories.
 
