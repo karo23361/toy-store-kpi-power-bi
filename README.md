@@ -3,10 +3,10 @@
 Welcome to my Power BI project based on the Mexico Toy Sales dataset! 🎉
 The main goal of this project was to create a professional KPI report that provides clear insights into toy sales across different locations and categories.
 
-1-st page
+
 ![image](https://github.com/user-attachments/assets/1f885700-f913-49fe-a85c-bfd229c989a4)
 
-2-nd page
+
 ![image](https://github.com/user-attachments/assets/d75a3553-2680-4cf6-bd4e-f5e8edd4ada8)
 
 
