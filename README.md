@@ -34,7 +34,7 @@ Data has been taken from [Maven Analytics - Data Playground](https://mavenanalyt
 🧠 Created by Karol Szeląg | 173223 (student index)
 
 
-#DESCRIPTION IN POLISH
+## DESCRIPTION IN POLISH
 
 ### 🟢 Strona 1 – Podstawowe KPI & Analiza sprzedaży
 
