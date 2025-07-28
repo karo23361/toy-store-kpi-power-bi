@@ -33,8 +33,7 @@ Data has been taken from [Maven Analytics - Data Playground](https://mavenanalyt
 
 🧠 Created by Karol Szeląg | 173223 (student index)
 
-Sure! Here's the English translation of your description:
-
+## DESCRIPTION IN ENGLISH
 ---
 
 🟢 **Page 1 – Key KPIs & Sales Analysis**
